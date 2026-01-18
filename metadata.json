@@ -1,0 +1,7 @@
+{
+  "name": "Vacation Game",
+  "description": "A gamified team experience where users solve daily riddles, generate AI avatars, and race across a board.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
